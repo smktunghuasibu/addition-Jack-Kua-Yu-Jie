@@ -1,4 +1,4 @@
-def sum(x, y):
+def sum(x,y):
     answer = x + y
     return answer
 
